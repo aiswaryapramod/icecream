@@ -1,0 +1,119 @@
+body{
+    text-align:center;
+    margin:0;
+    background-color:white;
+}
+img{
+    width:100%;
+    margin-top:60px;
+    background-color:white;
+}
+#links{
+display: inline;
+padding-left: 30px;
+padding-right: 30px;
+font-size:40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ice1{
+    padding-left:20px;
+    padding-right:20px;
+    background-color:white;
+}
+#a1{
+    text-decoration: none;
+    color:rgb(136, 11, 11);
+    text-shadow: 2px 3px 4px rgb(136, 52, 52);
+
+}
+.d1{
+    width:20%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+div{
+    width:21%;
+    height:550px;
+    background-color:white;
+    border:white;
+    margin:1%;
+    float:left;
+    padding:10px;
+    margin-top:35px;
+    margin-left:35px;
+}
+#links:hover{
+    font-size:50px;
+    text-decoration:underline;
+}
+.i1{
+    padding-left:5px;
+}
+.d2{
+    padding-right:10px;
+    padding-left:10px ;
+    color:rgb(145, 86, 8);
+}
+.d3{
+    color:rgb(164, 93, 0);
+}
+.d4{
+    color:rgb(168, 117, 49);
+}
+.d5{
+    color:rgb(168, 117, 49);
+}
+.d6{
+    color:rgb(168, 117, 49);
+}
+.d7{
+    color:rgb(168, 117, 49);
+}
+.d8{
+    color:rgb(168, 117, 49);
+}
+.d9{
+    color:rgb(168, 117, 49);
+}
+.d10{
+    color:rgb(168, 117, 49);
+}
+.d11{
+    color:rgb(168, 117, 49);
+}
+.d12{
+    color:rgb(168, 117, 49);
+}
+#products{
+    color:rgb(92, 10, 10);
+    
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:underline;
+}
+h1:hover{
+    font-size:50px;
+    text-decoration:underline;
+}
+h1{
+    font-size:25px;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color:rgb(2, 62, 62);
+}
+h3{
+    text-align: center;
+    font-family: 'Mochiy Pop One', sans-serif;
+    color:rgb(18, 78, 78);
+}
+#map{
+    width:100%;
+}
+html{
+    scroll-behavior:smooth;
+}
+
+
+
+
